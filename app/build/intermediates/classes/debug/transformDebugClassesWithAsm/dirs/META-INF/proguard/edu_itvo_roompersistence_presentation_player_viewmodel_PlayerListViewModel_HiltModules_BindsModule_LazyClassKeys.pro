@@ -1,1 +1,0 @@
--keep,allowobfuscation,allowshrinking class edu.itvo.roompersistence.presentation.player.viewmodel.PlayerListViewModel
